@@ -1,0 +1,26 @@
+{
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "resume": "Resume"
+  },
+  "about": {
+    "title": "About Me",
+    "role": "Full Stack Developer & UI/UX Designer",
+    "bio": "Passionate web developer specializing in modern and high-performance applications.",
+    "description": "I am a web developer specializing in the creation of modern and performant applications. I master technologies such as HTML, CSS, JavaScript, PHP, React, and Laravel, with a strong ability to design intuitive interfaces and effective solutions. Rigorous and result-oriented, I am committed to delivering quality projects that meet user needs and current web development standards."
+  },
+  "projects": {
+    "title": "My Projects",
+    "view_demo": "Live Demo",
+    "view_github": "GitHub"
+  },
+  "resume": {
+    "title": "My Resume",
+    "download": "Download CV",
+    "fallback": "It looks like your browser doesn't support embedding PDFs. No worries, you can download it below!"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}

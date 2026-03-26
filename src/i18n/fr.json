@@ -1,0 +1,26 @@
+{
+  "nav": {
+    "about": "À Propos",
+    "projects": "Projets",
+    "resume": "CV"
+  },
+  "about": {
+    "title": "À Propos de Moi",
+    "role": "Développeuse Full Stack & Designer UI/UX",
+    "bio": "Développeuse web passionnée, spécialisée dans la création d’applications modernes et performantes.",
+    "description": "Développeuse web passionnée, spécialisée dans la création d’applications modernes et performantes. Je maîtrise les technologies telles que HTML, CSS, JavaScript, PHP , React et Laravel, avec une forte capacité à concevoir des interfaces intuitives et des solutions efficaces. Rigoureuse et orientée résultats, je m’engage à livrer des projets de qualité répondant aux besoins des utilisateurs et aux standards actuels du développement web."
+  },
+  "projects": {
+    "title": "Mes Projets",
+    "view_demo": "Démo en Direct",
+    "view_github": "GitHub"
+  },
+  "resume": {
+    "title": "Mon CV",
+    "download": "Télécharger le CV",
+    "fallback": "Il semble que votre navigateur ne prenne pas en charge l'intégration de PDF. Pas de soucis, vous pouvez le télécharger ci-dessous !"
+  },
+  "footer": {
+    "rights": "Tous droits réservés."
+  }
+}
