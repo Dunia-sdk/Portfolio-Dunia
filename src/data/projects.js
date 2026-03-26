@@ -9,7 +9,7 @@ export const projects = [
     github: "https://github.com/Dunia-sdk/YanAgency",
     demo: "https://myagency.yancarz.com/login",
     images: [
-      "/Portfolio-Dunia/assets/YanCarz.png"
+      "/assets/YanCarz.png"
     ]
   },
   {
@@ -22,7 +22,7 @@ export const projects = [
     github: "https://github.com/Dunia-sdk/Portfolio-Dunia",
     demo: "https://github.com/Dunia-sdk/Portfolio-Dunia",
     images: [
-      "/Portfolio-Dunia/assets/Portfolio.png"
+      "/assets/Portfolio.png"
     ]
   }
 ];

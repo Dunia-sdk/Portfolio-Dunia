@@ -9,7 +9,7 @@ import ResumePage from './pages/ResumePage';
 
 function App() {
   return (
-    <Router basename="/Portfolio-Dunia">
+    <Router>
       <div className="min-h-screen flex flex-col">
         <Navbar />
         <main className="flex-grow">
