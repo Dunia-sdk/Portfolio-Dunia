@@ -23,13 +23,16 @@ const Footer = () => {
             <a href="https://www.linkedin.com/in/sadik-dounia/" target="_blank" rel="noopener noreferrer" className="hover:text-indigo-600 transition-colors">
               <FaLinkedin size={20} />
             </a>
-            <a href="mailto:contact@example.com" className="hover:text-indigo-600 transition-colors">
+            <a href="mailto:douniasadikdev@gmail.com" title="douniasadikdev@gmail.com" className="hover:text-indigo-600 transition-colors">
+              <FaEnvelope size={20} />
+            </a>
+            <a href="mailto:douniasadik307@icloud.com" title="douniasadik307@icloud.com" className="hover:text-indigo-600 transition-colors">
               <FaEnvelope size={20} />
             </a>
           </div>
         </div>
       </div>
-    </footer>
+    </footer> 
   );
 };
 

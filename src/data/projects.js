@@ -5,11 +5,11 @@ export const projects = [
     titleFr: "YanAgency",
     descriptionEn: "A comprehensive agency management system for vehicle rentals and services.",
     descriptionFr: "Un système complet de gestion d'agence pour la location de véhicules et les services.",
-    tech: ["React", "Node.js", "Express", "Tailwind CSS"],
+    tech: ["React", "Node.js", "Vite", "Tailwind CSS"],
     github: "https://github.com/Dunia-sdk/YanAgency",
     demo: "https://myagency.yancarz.com/login",
     images: [
-      "/assets/YanCarz.png"
+      `${import.meta.env.BASE_URL}assets/YanCarz.png`
     ]
   },
   {
@@ -20,9 +20,9 @@ export const projects = [
     descriptionFr: "Portfolio de développeur moderne et réactif avec support multi-langue.",
     tech: ["React", "Tailwind CSS", "i18next", "Vite"],
     github: "https://github.com/Dunia-sdk/Portfolio-Dunia",
-    demo: "https://github.com/Dunia-sdk/Portfolio-Dunia",
+    demo: "https://dunia-sdk.github.io/Portfolio-Dunia/",
     images: [
-      "/assets/Portfolio.png"
+      `${import.meta.env.BASE_URL}assets/Portfolio.png`
     ]
   }
 ];
