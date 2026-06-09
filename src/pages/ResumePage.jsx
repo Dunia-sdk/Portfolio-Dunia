@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next';
 import { FaDownload } from 'react-icons/fa';
-import resumePdf from '../assets/SADIK_DOUNIA_Resume_2026-.pdf';
+import resumePdf from '../assets/SADIK_DOUNIA_CV_Resume.pdf';
 
 const ResumePage = () => {
   const { t } = useTranslation();
@@ -14,7 +14,7 @@ const ResumePage = () => {
         </h1>
         <a
           href={resumeUrl}
-          download="SADIK_DOUNIA_Resume.pdf"
+          download="SADIK_DOUNIA_CV_Resume.pdf"
           className="btn-primary flex items-center"
         >
           <FaDownload className="mr-2" /> {t('resume.download')}
