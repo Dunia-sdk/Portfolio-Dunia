@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import './i18n';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
@@ -9,7 +9,7 @@ import ResumePage from './pages/ResumePage';
 
 function App() {
   return (
-    <Router basename={import.meta.env.BASE_URL}>
+    <Router>
       <div className="min-h-screen flex flex-col">
         <Navbar />
         <main className="flex-grow">
