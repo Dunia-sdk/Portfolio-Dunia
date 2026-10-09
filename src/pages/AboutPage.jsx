@@ -26,7 +26,7 @@ const AboutPage = () => {
             {t('about.description')}
           </p>
           <div className="flex flex-wrap justify-center md:justify-start gap-3">
-            {['React', 'Laravel', 'PHP', 'JavaScript', 'Tailwind CSS', 'MySQL'].map((skill) => (
+            {['React', 'Laravel', 'PHP', 'JavaScript', 'Tailwind CSS', 'Node.js','MySQL', 'MongoDB'].map((skill) => (
               <span key={skill} className="px-4 py-1.5 bg-white border border-slate-200 rounded-full text-sm font-medium text-slate-700 shadow-sm">
                 {skill}
               </span>

@@ -24,5 +24,18 @@ export const projects = [
     images: [
       `${import.meta.env.BASE_URL}assets/Portfolio.png`
     ]
+  },
+  {
+    id: 3,
+    titleEn: "Cabinet+",
+    titleFr: "Cabinet+",
+    descriptionEn: "A comprehensive clinical management and care coordination platform for Moroccan healthcare providers, facilitating doctor-secretary synchronization and electronic health records (EHR).",
+    descriptionFr: "Une plateforme complète de gestion clinique et de coordination des soins pour les professionnels de la santé au Maroc, facilitant la synchronisation médecin-secrétaire et la gestion du dossier médical électronique.",
+    tech: ["React", "Tailwind CSS", "Vite", "Node.js", "Express", "MongoDB", "Framer Motion"],
+    github: "https://github.com/WiamBabioui/Cabinet-",
+    demo: "https://cabinet-medical-plus.vercel.app/",
+    images: [
+      `${import.meta.env.BASE_URL}assets/Cabinet.png`
+    ]
   }
 ];

@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next';
 import { FaDownload } from 'react-icons/fa';
-import resumePdf from '../assets/SADIK_DOUNIA_CV_Resume.pdf';
+import resumePdf from '../assets/CV_Dounia_Sadik.pdf';
 
 const ResumePage = () => {
   const { t } = useTranslation();
