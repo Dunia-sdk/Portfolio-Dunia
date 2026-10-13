@@ -13,7 +13,8 @@
   "projects": {
     "title": "My Projects",
     "view_demo": "Live Demo",
-    "view_github": "GitHub"
+    "view_github": "GitHub",
+    "watch_demo": "Watch on Google Drive"
   },
   "resume": {
     "title": "My Resume",

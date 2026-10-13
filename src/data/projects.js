@@ -34,6 +34,8 @@ export const projects = [
     tech: ["React", "Tailwind CSS", "Vite", "Node.js", "Express", "MongoDB", "Framer Motion"],
     github: "https://github.com/WiamBabioui/Cabinet-",
     demo: "https://cabinet-medical-plus.vercel.app/",
+    demoVideo: "https://drive.google.com/file/d/1xf4uNhyeLU8QC1An74MLRsIOXxjQImG1/preview",
+    demoVideoLink: "https://drive.google.com/file/d/1xf4uNhyeLU8QC1An74MLRsIOXxjQImG1/view?usp=sharing",
     images: [
       `${import.meta.env.BASE_URL}assets/Cabinet.png`
     ]

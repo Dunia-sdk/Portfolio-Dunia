@@ -13,7 +13,8 @@
   "projects": {
     "title": "Mes Projets",
     "view_demo": "Démo en Direct",
-    "view_github": "GitHub"
+    "view_github": "GitHub",
+    "watch_demo": "Voir sur Google Drive"
   },
   "resume": {
     "title": "Mon CV",
